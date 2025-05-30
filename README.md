@@ -1,6 +1,7 @@
 # Fitness Pose Correction Application
 ## Overview
-<img width="1156" alt="Ảnh màn hình 2025-04-09 lúc 22 20 54" src="https://drive.google.com/file/d/15Xw6Lvo7ICw40knB1AC2mKnjhR0gVQN4/view?usp=sharing" />
+![Giao diện ứng dụng](https://github.com/user-attachments/assets/75260afa-b453-4039-84a4-810e9292be60)
+
 The Fitness Pose Correction Application is an academic project developed to help users improve their exercise posture through instant feedback. The system utilizes Artificial Intelligence (AI) to analyze user movements and postures from video, then provides corrective suggestions to ensure proper technique, minimize injury risk, and optimize workout effectiveness.
 
 The project consists of three main components: a powerful AI model (LSTM with Attention) on a Python (Flask) backend, a user-friendly Flutter mobile application, and Firebase for data management and feedback delivery.
